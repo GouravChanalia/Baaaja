@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baaja</string>
+    <string name="song">Dil Tod ke</string>
+    <string name="play_btn">Play</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="replay">Replay</string>
+    <string name="loop">Loop</string>
+</resources>
